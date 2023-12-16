@@ -21,8 +21,8 @@ We recently showcased our success at **two NeurIPS'23 workshops and a AAAI'24 Wo
 - Learn about our [research](https://ciol-sust.github.io/research.html) topics!
 - View our [publications](https://ciol-sust.github.io/papers.html)!
 - Learn about our recent [news](https://ciol-sust.github.io/updates.html)!
-- Visit our [team](https://ciol-sust.github.io/team.html)!
-- Visit our [advisors](https://ciol-sust.github.io/advisors.html)!
+- Meet our [team](https://ciol-sust.github.io/team.html)!
+- Meet our [advisors](https://ciol-sust.github.io/advisors.html)!
 
 ---
 
