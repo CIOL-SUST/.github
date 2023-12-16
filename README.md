@@ -10,7 +10,7 @@ With a team of highly dedicated researchers and youngsters, CIOL is committed to
 
 ---
 
-We recently showcased our success at **two NeurIPS'23 workshops and a AAAI'24 Workshop**. Additionally, we are currently awaiting review for several works in different venues like **ICLR'24 Tiny Papers** and **HI Workshop @AAAI'24**. See our [publications](./papers.html) page for more details and [updates](./updates.html) page for recent updates.
+We recently showcased our success at **two NeurIPS'23 workshops and a AAAI'24 Workshop**. Additionally, we are currently awaiting review for several works in different venues like **ICLR'24 Tiny Papers** and **HI Workshop @AAAI'24**. See our [publications](https://ciol-sust.github.io/papers.html) page for more details and [updates](https://ciol-sust.github.io/updates.html) page for recent updates.
 
 ---
 
@@ -18,11 +18,11 @@ We recently showcased our success at **two NeurIPS'23 workshops and a AAAI'24 Wo
 
 ---
 
-- Learn about our [research](./research.html) topics!
-- View our [publications](./papers.html)!
-- Learn about our recent [news](./updates.html)!
-- Visit our [team](./team.html)!
-- Visit our [advisors](./advisors.html)!
+- Learn about our [research](https://ciol-sust.github.io/research.html) topics!
+- View our [publications](https://ciol-sust.github.io/papers.html)!
+- Learn about our recent [news](https://ciol-sust.github.io/updates.html)!
+- Visit our [team](https://ciol-sust.github.io/team.html)!
+- Visit our [advisors](https://ciol-sust.github.io/advisors.html)!
 
 ---
 
