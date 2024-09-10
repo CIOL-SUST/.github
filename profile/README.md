@@ -22,43 +22,9 @@ We recently showcased our success at **two NeurIPS'23 workshops and a AAAI'24 Wo
 - View our [publications](https://ciol-research.github.io/papers.html)!
 - Learn about our recent [news](https://ciol-research.github.io/updates.html)!
 - Meet our [team](https://ciol-research.github.io/team.html)!
-- Meet our [advisors](https://ciol-research.github.io/advisors.html)!
 
 ---
 
 **Headquarters:** Sylhet, Bangladesh  
 **Founded:** 2022  
 **Research Area:** Operations Research, Machine Learning, and Artificial Intelligence
-
----
-# Publications
-
----
-
-- **SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks**
-  - *Authors:* [Azmine Toushik Wasi](https://azminewasi.github.io/), [MD Shafikul Islam Sohan](https://www.linkedin.com/in/md-shafikul-islam-sohan/), [Adipto Raihan Akib](#)
-  - *Venue:* **AAAI'24** Graphs and more Complex structures for Learning and Reasoning Workshop (Full Paper)
-  - *Status:* Accepted
-  - *Topics:* GNN, Supply Chains, Datasets and Benchmarks
-  - [GitHub](https://github.com/CIOL-research/SupplyGraph)
-
----
-
-- **Optimizing Inventory Routing: A Decision-Focused Learning Approach using Neural Networks**
-  - *Authors:* [MD Shafikul Islam Sohan](https://www.linkedin.com/in/md-shafikul-islam-sohan/), [Azmine Toushik Wasi](https://azminewasi.github.io/)
-  - *Venue:* **NeurIPS'23** New in ML Workshop (Extended Abstracts)
-  - *Status:* Accepted
-  - *Topics:* CO, OR-ML, Supply Chains
-  - [Paper Site](https://ciol-sust.github.io/works/IRP_DFNN/index.html), [arXiv](https://arxiv.org/abs/2311.00983), [OpenReview](https://openreview.net/forum?id=r0fzjB8f7f&)
-
----
-
-- **Explainable Identification of Hate Speech towards Islam using Graph Neural Networks**
-  - *Author:* [Azmine Toushik Wasi](https://azminewasi.github.io/)
-  - *Venue:* **NeurIPS'23** Muslims in ML Workshop (Extended Abstracts)
-  - *Status:* Accepted, Oral
-  - *Topics:* GNN, XAI
-  - [arXiv](https://arxiv.org/abs/2311.04916), [OpenReview](https://openreview.net/forum?id=jG3Y7bA94N)
-
----
-
